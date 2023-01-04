@@ -1,6 +1,6 @@
 # OctoPrint-Esp32CamUI
 
-**TODO:** Describe what your plugin does.
+This plugin allows users to control and monitor their ESP32-CAM directly from the OctoPrint interface. With this plugin, you can easily take photos and videos, adjust camera settings, and view a live stream of the camera feed right from within OctoPrint. 
 
 ## Setup
 
@@ -9,9 +9,7 @@ or manually using this URL:
 
     https://github.com/CyberSensei1/OctoPrint-Esp32CamUI/archive/master.zip
 
-**TODO:** Describe how to install your plugin, if more needs to be done than just installing it via pip or through
-the plugin manager.
 
 ## Configuration
 
-**TODO:** Describe your plugin's configuration options (if any).
+You just need to set your ESP32-CAM Interface url in se tab.
