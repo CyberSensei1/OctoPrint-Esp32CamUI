@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_esp32camUI/templates *
+recursive-include octoprint_esp32camUI/translations *
+recursive-include octoprint_esp32camUI/static *
